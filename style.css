@@ -1,0 +1,57 @@
+body {
+  background-image: url("santa_new.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom right;
+}
+#outerContainer {
+  border: none;
+  text-align: center;
+  width: 750px;
+  margin-left: 250px;
+}
+h1 {
+  color: maroon;
+  font-family: Gabriola;
+  font-size: xx-large;
+  font-size: 48px;
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
+h2 {
+  color: green;
+  font-family: Gabriola;
+  font-size: x-large;
+  font-size: 36px;
+}
+li {
+  list-style-type: none;
+  color: black;
+  font-family: Gabriola;
+  font-size: large;
+  font-size: 24px;
+  text-align: center;
+}
+text {
+  color: black;
+  font-family: Gabriola;
+  font-size: 24px;
+}
+img {
+  width: 250px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
