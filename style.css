@@ -3,13 +3,13 @@ body {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: contain;
-  }
+}
 
 #outerContainer {
   border: none;
   text-align: center;
   width: 750px;
- }
+}
 
 h1 {
   color: maroon;
